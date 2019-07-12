@@ -1,0 +1,22 @@
+<style>
+body{
+background-image:url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFh0Cx2qtLfTs3TLxWLp95ov-PSGvky7R0op_J1k9kJgU5gJvn)
+}
+
+.blue{ 
+
+    color: blue;
+    font-family:"fantasy";
+}
+.red{
+    border: 2px solid red;
+}
+
+ 
+
+.purple{ 
+background-color: yellow;
+border-color: orchid;
+border-style: wavy;
+border-spacing: 3px;
+}
